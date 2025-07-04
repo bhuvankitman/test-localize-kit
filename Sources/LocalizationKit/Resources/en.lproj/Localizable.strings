@@ -1,0 +1,8 @@
+// Title of a button the user should press to acknowledge a prompt
+"OK" = "OK";
+
+// Title of a button the user should press if they do not want to proceed
+"Cancel" = "Cancel";
+
+// Button to show more of the comment, as it has been truncated
+"Video.Comments.ShowMore" = "Show more";

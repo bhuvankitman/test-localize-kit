@@ -1,0 +1,9 @@
+strings:
+  inputs:
+    - ./Sources/LocalizationKit/Resources/en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: ${DERIVED_SOURCES_DIR}/GeneratedStrings.swift
+      params:
+          publicAccess: true
+
