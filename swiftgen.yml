@@ -3,7 +3,7 @@ strings:
     - ./Sources/LocalizationKit/Resources/en.lproj/Localizable.strings
   outputs:
     - templateName: structured-swift5
-      output: ${DERIVED_SOURCES_DIR}/GeneratedStrings.swift
+      output: Generated/L10n.swift
       params:
           publicAccess: true
 
