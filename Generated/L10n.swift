@@ -16,6 +16,8 @@ public enum L10n {
   public static let ok = L10n.tr("Localizable", "OK", fallback: "OK")
   public enum Video {
     public enum Comments {
+      /// Show less
+      public static let showLess = L10n.tr("Localizable", "Video.Comments.ShowLess", fallback: "Show less")
       /// Show more
       public static let showMore = L10n.tr("Localizable", "Video.Comments.ShowMore", fallback: "Show more")
     }

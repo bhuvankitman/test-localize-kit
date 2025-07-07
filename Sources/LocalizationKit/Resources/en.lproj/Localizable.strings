@@ -6,3 +6,6 @@
 
 // Button to show more of the comment, as it has been truncated
 "Video.Comments.ShowMore" = "Show more";
+
+// Button to hide the comment, as it has been expanded
+"Video.Comments.ShowLess" = "Show less";
